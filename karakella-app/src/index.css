@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#map { height: 1000px; }
+
+.test{
+  color:#cbcbcb;
+  font-size:20px;
+  background-blend-mode: hard-light;
+
+}
+.leaflet-popup-content-wrapper{
+  background: rgba(1, 17, 87, 0.6);
+  
+  color:#cbcbcb;
+}
